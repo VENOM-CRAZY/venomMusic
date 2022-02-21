@@ -8,7 +8,7 @@
 
 ### Deploy To Railway
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/KaalMusic/AdityaPlayer&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/KaalMusic&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION,SUDO_USERS)
 
 
 ### Deploy To Heroku
